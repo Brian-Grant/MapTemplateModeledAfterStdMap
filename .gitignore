@@ -1,0 +1,10 @@
+*.o
+mytest
+t_minimal
+t_morseex
+t_test
+t_test-kec
+t_test-scaling
+d_c_ll
+skip_test
+
